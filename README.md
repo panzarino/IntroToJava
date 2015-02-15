@@ -1,4 +1,4 @@
-# IntroToJava
-Programs from Intro to Java Class
+# Intro To Java
+Programs From Intro To Java Class
 <br>
-Default Class IDE Is JCreator
+Default Class IDE is JCreator
